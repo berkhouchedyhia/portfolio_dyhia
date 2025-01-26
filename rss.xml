@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Portfolio de Dyhia Berkhouche</title>
+    <link>https://portfolio-dyhia-berkhouche.netlify.app</link>
+    <description>Découvrez mes projets dans les systèmes d’information, la gestion de projets IT, et la transformation digitale.</description>
+    <item>
+      <title>Stratégie de gouvernance des données</title>
+      <link>https://portfolio-dyhia-berkhouche.netlify.app/projet1</link>
+      <description>Mise en place d'une stratégie de gouvernance des données pour améliorer la qualité et la conformité des informations au sein d'une organisation.</description>
+      <pubDate>Mon, 06 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatbot pour la sensibilisation aux cyberattaques</title>
+      <link>https://portfolio-dyhia-berkhouche.netlify.app/projet2</link>
+      <description>Développement d'un chatbot intégré à une plateforme visant à sensibiliser les utilisateurs aux cyberattaques.</description>
+      <pubDate>Tue, 07 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Optimisation des processus métiers</title>
+      <link>https://portfolio-dyhia-berkhouche.netlify.app/projet3</link>
+      <description>Analyse et optimisation des processus métiers pour aligner les systèmes d'information aux objectifs stratégiques.</description>
+      <pubDate>Wed, 08 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
